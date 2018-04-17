@@ -1,3 +1,6 @@
 [submodule "archerModule"]
 	path = archerModule
 	url = https://github.com/arshdAtFunrock/archerModule
+[submodule "archerModule2"]
+	path = archerModule2
+	url = https://github.com/arshdAtFunrock/archerModule2
