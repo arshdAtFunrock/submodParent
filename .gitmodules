@@ -1,0 +1,3 @@
+[submodule "archerModule"]
+	path = archerModule
+	url = https://github.com/arshdAtFunrock/archerModule
